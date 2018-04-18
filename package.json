@@ -1,0 +1,24 @@
+{
+  "name": "blog-django",
+  "version": "1.0.0",
+  "description": "Here is a wacky attempt at a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haberd/blog-django.git"
+  },
+  "keywords": [
+    "blog",
+    "django",
+    "test"
+  ],
+  "author": "DH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haberd/blog-django/issues"
+  },
+  "homepage": "https://github.com/haberd/blog-django#readme"
+}
